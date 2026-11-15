@@ -1,15 +1,17 @@
 # AI-Powered-Healthcare-Intelligence-System
 
+🤖 Building Intelligent Web Applications with AI and Machine Learning to Make Healthcare Information More Accessible 🩺.
+
 # Description
 
-🩺AI-Powered Healthcare Intelligence System – An integrated Streamlit application combining machine learning, NLP, and AI to predict diseases from symptoms, recommend similar medicines, assess heart disease risk, provide AI-powered medical assistance, and help users locate nearby hospitals.
+AI-Powered Healthcare Intelligence System – An integrated Streamlit application combining machine learning, NLP, and AI to predict diseases from symptoms, recommend similar medicines, assess heart disease risk, provide AI-powered medical assistance, and help users locate nearby hospitals.
 
 # Overview
 
 This project brings together different areas of software development, data science, machine learning, and artificial intelligence. It represents practical exploration of how these technologies can be combined to build an interactive healthcare-focused application.
 Built with Python, Machine Learning, NLP, and Streamlit.
 
-📌 About the Project
+# 📌 About the Project
 
 The AI-Powered Healthcare Intelligence System is a multi-feature healthcare application built using Python, Machine Learning, Natural Language Processing (NLP), and Streamlit. The idea behind this project is to bring several useful healthcare features together in one place, making it easier for users to explore health-related information and receive data-driven insights through a simple, interactive interface.
 
@@ -17,7 +19,7 @@ Instead of building separate applications for different healthcare needs, this p
 
 Throughout the development process, the focus was on applying machine learning concepts to practical healthcare-related problems while creating an accessible and user-friendly experience.
 
-🚀 Key Features
+# 🚀 Key Features
 
 1. Disease Prediction and Medical Recommendations
 Predicts possible diseases based on user-selected symptoms using a trained Random Forest classifier.
